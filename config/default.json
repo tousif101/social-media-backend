@@ -1,5 +1,5 @@
 {
   "mongoURI":
-  "mongodb+srv://root:superpassword@cluster0.4kwkr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "mongodb+srv://root:d@cluster0.4kwkr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "secretOrKey": "secret"
 }
